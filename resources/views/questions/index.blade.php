@@ -9,7 +9,7 @@
                     <div class="d-flex align-items-center">
                         <h2>Todas as Perguntas Aqui</h2>
                         <div class="ml-auto">
-                            <a class="btn btn-outline-secondary" href="{{route('questions.create')}}">Faça uma Pergunta</a>
+                            <a class="btn btn-outline-secondary" href="{{route('questions.create')}}">Faça sua Pergunta</a>
                         </div>
                     </div>
                 </div>
