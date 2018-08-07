@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-header">
                     <div class="d-flex align-items-center">
-                        <h2>All Questions</h2>
+                        <h2>Todas as Perguntas</h2>
                         <div class="ml-auto">
                             <a class="btn btn-outline-secondary" href="{{route('questions.create')}}">Faça uma Pergunta</a>
                         </div>
