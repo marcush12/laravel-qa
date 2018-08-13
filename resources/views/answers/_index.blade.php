@@ -18,7 +18,7 @@
                           <a title="Esta resposta não foi útil" class="vote-down off">
                               <i class="fas fa-caret-down fa-3x"></i>
                           </a>
-                          <a title="Marcar como melhor resposta" class="vote-accepted mt-2">
+                          <a title="Marcar como melhor resposta" class="{{$answer->status}} mt-2">
                           <i class="fas fa-check fa-2x"></i>
                           </a>
                       </div>
